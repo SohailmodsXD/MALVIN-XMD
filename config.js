@@ -1,7 +1,7 @@
 
 /*
-Project Name : MALVIN XMD
-Creator      : Malvin King ( Mr Lord Malvin )
+Project Name : SOHAIL XD
+Creator      : SOHAIL King ( Mr Lord Malvin )
 Repo         : https//github.com/kingmalvn/MALVIN-XMD
 Support      : wa.me/263714757857
 */
@@ -14,7 +14,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "MALVIN-XMD~c0xnCAZT#fIWQZ5JLRhGwdbLYw_iIv0kgYnQbWGTvsfcjl59y45k",
 // add your Session Id 
 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
@@ -29,7 +29,7 @@ AUTO_STATUS_MSG: process.env.AUTO_STATUS__MSG || "*Jᴜsᴛ Nᴏᴡ Sᴛᴀᴛ�
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 
-BOT_NAME: process.env.BOT_NAME || "MALVIN-XMD",
+BOT_NAME: process.env.BOT_NAME || "SOHAIL-XD",
 // add bot namw here for menu
 
 STICKER_NAME: process.env.STICKER_NAME || "MALVIN-XMD",
@@ -44,7 +44,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "263714757857",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923176508812",
 // add your bot owner number
 
 OWNER_NAME: process.env.OWNER_NAME || "Mʀ Mᴀʟᴠɪɴ",
@@ -65,7 +65,7 @@ LIVE_MSG: process.env.LIVE_MSG || "> ɴᴇᴠᴇʀ ᴀʟɪᴠᴇ ʙᴜᴛ ᴀᴡ
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 
-AUTO_REACT: process.env.AUTO_REACT || "false",
+AUTO_REACT: process.env.AUTO_REACT || "true",
 // make this true or false for auto react on all msgs
 
 ANTI_BAD: process.env.ANTI_BAD || "false",
@@ -86,13 +86,13 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 
-AUTO_TYPING: process.env.AUTO_TYPING || "false",
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
 //  📌 𝘁𝗿𝘂𝗲 𝗼𝗿 𝗳𝗮𝗹𝘀𝗲 𝗮𝘀 𝗬𝗼𝘂 𝗟𝗶𝗸𝗲 📌
 
 READ_CMD: process.env.READ_CMD || "false",
